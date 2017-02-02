@@ -1,0 +1,17 @@
+﻿body {
+    background-color: lightpink;
+}
+
+h1  { color: yellow;
+
+}
+
+@media screen and (max-width: 720px)   {
+    body{
+        background-color: lightblue;
+    }
+
+    h1 {
+        color: red;
+    }
+}
